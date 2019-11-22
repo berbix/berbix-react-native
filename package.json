@@ -4,6 +4,7 @@
   "description": "React Native SDK for the Berbix Verify flow",
   "main": "index.js",
   "scripts": {
+    "build": "babel src --out-file index.js",
     "webpack": "webpack"
   },
   "repository": {
