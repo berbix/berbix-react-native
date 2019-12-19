@@ -30,8 +30,8 @@ Add an entry for camera access to your `Info.plist` for iOS access.
 ### Basic usage
 
 ```jsx
-import React from 'react';
-import BerbixVerify from 'berbix-react-native';
+import React from "react";
+import BerbixVerify from "berbix-react-native";
 
 class ExampleComponent extends React.Component {
   render() {
@@ -57,15 +57,13 @@ BerbixVerify.propTypes = {
   // Configurations
   templateKey: PropTypes.string,
   clientToken: PropTypes.string,
-  email: PropTypes.string,
-  phone: PropTypes.string,
 
   // Event handlers
   onComplete: PropTypes.func.isRequired,
   onError: PropTypes.func,
   onDisplay: PropTypes.func,
-  onStateChange: PropTypes.func,
-}
+  onStateChange: PropTypes.func
+};
 ```
 
 ## Publishing

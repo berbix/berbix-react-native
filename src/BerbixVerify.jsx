@@ -246,8 +246,6 @@ BerbixVerify.propTypes = {
   // Configurations
   clientToken: PropTypes.string,
   templateKey: PropTypes.string,
-  email: PropTypes.string,
-  phone: PropTypes.string,
 
   // Event handlers
   onComplete: PropTypes.func.isRequired,
@@ -263,7 +261,9 @@ BerbixVerify.propTypes = {
 
   // Deprecated
   continuation: PropTypes.string,
-  role: PropTypes.string
+  role: PropTypes.string,
+  email: PropTypes.string,
+  phone: PropTypes.string
 };
 
 BerbixVerify.defaultProps = {
