@@ -32,11 +32,11 @@
     "react-native-webview": "6.x || 7.x"
   },
   "devDependencies": {
-    "@babel/cli": "7.7.4",
-    "@babel/core": "7.7.4",
+    "@babel/cli": "7.7.7",
+    "@babel/core": "7.7.7",
     "@babel/plugin-proposal-class-properties": "7.7.4",
-    "@babel/plugin-transform-react-jsx": "7.7.4",
-    "@babel/preset-env": "7.7.4",
+    "@babel/plugin-transform-react-jsx": "7.7.7",
+    "@babel/preset-env": "7.7.7",
     "babel-loader": "8.0.6",
     "prop-types": "15.7.2",
     "react": "16.12.0",
