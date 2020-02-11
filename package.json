@@ -43,7 +43,7 @@
     "react-native": "0.61.5",
     "react-native-camera": "3.17.0",
     "react-native-webview": "8.0.6",
-    "webpack": "4.41.5",
+    "webpack": "4.41.6",
     "webpack-cli": "3.3.10"
   }
 }
