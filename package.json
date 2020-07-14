@@ -32,8 +32,8 @@
     "react-native-webview": "6.x || 7.x || 8.x"
   },
   "devDependencies": {
-    "@babel/cli": "7.10.4",
-    "@babel/core": "7.10.4",
+    "@babel/cli": "7.10.5",
+    "@babel/core": "7.10.5",
     "@babel/plugin-proposal-class-properties": "7.10.4",
     "@babel/plugin-transform-react-jsx": "7.10.4",
     "@babel/preset-env": "7.10.4",
