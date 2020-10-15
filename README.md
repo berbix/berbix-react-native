@@ -1,3 +1,5 @@
+# Please contact us before using this library.
+
 # Berbix React SDK
 
 This Berbix React Native library provides simple interfaces to interact with the Berbix Verify flow.
