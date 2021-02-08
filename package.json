@@ -42,7 +42,7 @@
     "react": "16.13.1",
     "react-native": "0.61.5",
     "react-native-camera": "3.42.0",
-    "react-native-webview": "8.1.2",
+    "react-native-webview": "11.0.0",
     "webpack": "5.21.2",
     "webpack-cli": "4.5.0"
   }
