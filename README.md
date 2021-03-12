@@ -1,4 +1,5 @@
-# Please contact us before using this library.
+# Please contact us before using this library. 
+# If you're working on a new integration, please use our [React Native Wrapper](https://github.com/berbix/berbix-react-native-wrapper) instead.
 
 # Berbix React SDK
 
