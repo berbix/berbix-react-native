@@ -26,7 +26,7 @@
   "homepage": "https://github.com/berbix/berbix-react-native#readme",
   "peerDependencies": {
     "prop-types": "15.x",
-    "react": "16.x",
+    "react": "16.x || 17.x",
     "react-native": "0.60.x || 0.61.x",
     "react-native-camera": "3.x",
     "react-native-webview": "6.x || 7.x || 8.x"
@@ -39,7 +39,7 @@
     "@babel/preset-env": "7.12.13",
     "babel-loader": "8.2.2",
     "prop-types": "15.7.2",
-    "react": "16.13.1",
+    "react": "17.0.1",
     "react-native": "0.61.5",
     "react-native-camera": "3.42.0",
     "react-native-webview": "8.1.2",
